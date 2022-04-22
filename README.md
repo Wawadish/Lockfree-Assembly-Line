@@ -12,5 +12,5 @@ p = periodicity each assembly node is randomly assigned a periodicity between [1
 c = assembly nodes maximum capacity (how many items they can hold)    c >= 1</br>
 k = target amount of items    k > 1000</br></br>
 
-./q1 p c k    launches the program with a blocking linked list</br>
-./q2 p c k    launches the program with a lockfree linked list</br>
+./Q1a p c k    launches the program with a blocking linked list</br>
+./Q1b p c k    launches the program with a lockfree linked list</br>

@@ -2,9 +2,9 @@
 
 The assembly is comprised of reservoirs, intermediary assemly nodes and a root node.</br>
 
-The reservoirs are assigned a random periodicity which dictates how fast they create objects.</br></br>
+The reservoirs are assigned a random periodicity which dictates how fast they create objects.</br>
 
-Intermediary nodes may consume items from reservoirs or other intermediary nodes to create an item. Similarly for the root node.</br></br></br>
+Intermediary nodes may consume items from reservoirs or other intermediary nodes to create an item. Similarly for the root node.</br>
 
 Once the root node created the target amount of items, the simulation ends.</br></br>
 

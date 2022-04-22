@@ -8,7 +8,7 @@ Intermediary nodes may consume items from reservoirs or other intermediary nodes
 
 Once the root node created the target amount of items, the simulation ends.</br></br>
 
-p = periodicity each assembly node is randomly assigned a periodicity between [1, p]   1 < p < 30</br>   
+p = periodicity each assembly node is randomly assigned a periodicity between [1, p],   1 < p < 30</br>   
 c = assembly nodes maximum capacity (how many items they can hold)    c >= 1</br>
 k = target amount of items    k > 1000</br></br>
 
